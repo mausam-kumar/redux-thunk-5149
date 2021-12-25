@@ -1,0 +1,64 @@
+{
+  "todos": [
+    {
+      "title": "Study",
+      "description": "List of Topics",
+      "tags": [
+        "personal",
+        "others"
+      ],
+      "subtaskContainer": [
+        {
+          "subtitle": "Learn Redux",
+          "id": "99d70611-1e2b-4ee7-9e85-1ed16d22709d"
+        },
+        {
+          "subtitle": "Learn React-Thunk",
+          "id": "8f0a2ef3-a637-47d6-b6d6-8c9cf64bae63"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "id": "c6a962f4-f5e2-45d6-acf0-62435703e947",
+      "title": "Interview",
+      "description": "Topics To Cover",
+      "tags": [
+        "personal"
+      ],
+      "subtaskContainer": [
+        {
+          "subtitle": "Learn Redux",
+          "id": "7ab7a86b-dd02-4da7-bb5b-ceb696f99222"
+        },
+        {
+          "subtitle": "Learn React-Thunk",
+          "id": "953c19eb-c551-41c2-b4b3-06e4e86718df"
+        }
+      ]
+    },
+    {
+      "id": "0eb657b1-2e4b-42f2-8a54-48166d19483e",
+      "title": "Movie",
+      "description": "List of Movies",
+      "tags": [
+        "personal",
+        "others"
+      ],
+      "subtaskContainer": [
+        {
+          "subtitle": "avenger",
+          "id": "b67b75e3-7256-46f1-9de6-76331fddc291"
+        },
+        {
+          "subtitle": "Superman",
+          "id": "14f38850-b2d3-418e-87cd-d229bdaee940"
+        },
+        {
+          "subtitle": "Lucy",
+          "id": "6b506c1b-72c1-44cc-b076-f0f06162cbee"
+        }
+      ]
+    }
+  ]
+}
